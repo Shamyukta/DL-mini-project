@@ -22,4 +22,4 @@ DL_MiniProject_Adam_Modular.ipynb and DL_MiniProject_AdaDelta_Modular.ipynb - di
 
 Rest notebooks are different experiments we conducted for the given problem statement.
 
-Detailed Report
+Detailed Report : DL_mini_project_dm5596_rb4986_sr6626.pdf
